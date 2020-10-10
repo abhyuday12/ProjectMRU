@@ -1,10 +1,10 @@
 ## USE THIS FORMAT
 
-##### Name: [YOUR NAME](GitHub link)
+##### Name: Abhyuday(https://github.com/abhyuday12)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- Place: Firozabad,India
+- Bio: Aspiring Cyber Security analyst
+- GitHub: [abhyuday12](https://github.com/abhyuday12)
 
 ### DONT REMOVE ANYONE JUST ADD YOURS
 
@@ -73,9 +73,3 @@
 - Place: Kolkata, West Bengal, India
 - Bio: B.Tech Graduate from RCC Institute of Information Technology
 - GitHub: [Gauravsaha-97](https://github.com/Gauravsaha-97)
-
-##### Name: [RishabhDhiman99](https://github.com/RishabhDhiman99/)
-
-- Place: Faridabad,Haryana,India
-- Bio: Student | Machine Learning and Data Science Enthusiast | Programmer
-- GitHub: RishabhDhiman99(https://github.com/RishabhDhiman99/)
